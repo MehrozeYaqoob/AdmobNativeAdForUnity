@@ -1,4 +1,4 @@
-# AdmobNativeAdForUnity
+# How to implement Admob Native Ads in Unity
 This repo is for those who wants to implement Admob Native Ads in Unity
 
 Steps to use this Repo.
